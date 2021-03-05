@@ -1,0 +1,21 @@
+{
+  "name": "security",
+  "version": "1.0.0",
+  "description": "Un bot de secu",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "fun",
+    "security"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js-pagination": "^1.0.3",
+    "dotenv": "^8.2.0",
+    "request": "^2.88.2",
+    "superagent": "^6.1.0"
+  }
+}
